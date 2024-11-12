@@ -1,0 +1,7 @@
+myvenv
+.env
+downloads
+uploads
+__pycache__
+pk.txt
+server_template.xlsx
